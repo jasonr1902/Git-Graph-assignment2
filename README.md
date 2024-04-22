@@ -1,5 +1,5 @@
 # Git-Graph-assignment2
 Jason D. Royer
-Becnel MW 4-515
 CSCI 3323 Spring 2024
-Git assignment
+Dr. Becnel MW 4:00pm
+Due April 22, 8:00am
